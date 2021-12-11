@@ -25,7 +25,7 @@ Please put your name next to the todo that you would like to do or you have done
 
 - [x] the proposal: finished collectively
 - [ ] feature extraction/selection/data cleaning
-    - [ ] emoticons
+    - [x] emoticons (Oishika)
     - [x] tfidf: (Haiyang and Vincent)
     - [x] topic extraction: (Vincent)
     - [x] development dataset: (Haiyang)
